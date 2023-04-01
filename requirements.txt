@@ -1,4 +1,10 @@
-
-Flask 
-numpy
+flask
+flask-cors
+bootstrap-flask
+gunicorn
 requests
+numpy
+pillow
+torch 
+torchvision
+
